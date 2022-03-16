@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "LVDT can be used as",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Primary transducer",
+        "b": "Secondary transducer",
+        "c": "Both primary as well as secondary transducer",
+		"d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The magnetic field in secondary of LVDT",
+      "answers": {
+        "a": "Increases in one and decreses in other seconday depending upon direction of displacement",
+        "b": "Decreases with displacement",
+        "c": "Increases with displacement",
+		"d": "None of these"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Change in frequency of supply voltage of LVDT causes",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "No change in output",
+        "b": "Change in the output frequency with displacement",
+        "c": "Increase in the output frequency with displacement",
+		"d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " LVDT",
+      "answers": {
+        "a": "can measure very fast moving operations",
+        "b": "is used for very slow operations only",
+        "c": "can measure fast moving operations only upto 2 kHz",
+		"d": "None of these"
       },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Residual voltage in LVDT",
+      "answers": {
+        "a": "Is usually acceptable if less than 1% of FS",
+        "b": "Is always 0",
+        "c": "Is not acceptable at all",
+		"d": "None of these"
+      },
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

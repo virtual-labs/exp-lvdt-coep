@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Eddy currents can be used to find out",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cracks in material",
+        "b": "Thickness of nonconductive coating",
+        "c": "Both Cracks in material and Thickness of nonconductive coating",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "C",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The heat generated in the transformer is dissipated to the surroundings mainly by",
+      "answers": {
+        "a": "conduction",
+        "b": "radiation",
+        "c": "convection",
+        "d": "None of these"
       },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Basic source of magnetism is",
+      "answers": {
+        "a": "movement of charged particles",
+        "b": "charged particles alone",
+        "c": "magnetic dipoles",
+        "d": "all of these"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The magnetic field of a magnet",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "only exists on the poles themselves",
+        "b": "weakens as the distance from the magnet increases",
+        "c": "is always as strong anywhere around a magnet",
+        "d": "none of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "LVDT means",
+      "answers": {
+        "a": "Linear Variable Differential Transistor",
+        "b": "Linear Variable Differential Transducer",
+        "c": "Linear Variable Differential Translater",
+        "d": "Linear Variable Displacement Transformer"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
