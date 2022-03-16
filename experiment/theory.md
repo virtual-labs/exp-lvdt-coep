@@ -77,8 +77,8 @@ the flux. Laminated core is also used for the same purpose.
 
 #### Types of LVDT based on range of operation:
 
-1. Short stroked: full-scale linear ranges from ±0.01 inch (±0.25 mm) to ±0.5 inch (±12.7 mm)
-2. Long stroked: full-scale linear ranges from ±0.5 inch (±12.7 mm) to ±18.5 inch (±470 mm)
+1. Short stroked: full-scale linear ranges from Â±0.01 inch (Â±0.25 mm) to Â±0.5 inch (Â±12.7 mm)
+2. Long stroked: full-scale linear ranges from Â±0.5 inch (Â±12.7 mm) to Â±18.5 inch (Â±470 mm)
 
 #### Types of LVDT based on excitation used
 
@@ -101,13 +101,14 @@ Free armature is mainly suitable for short range, high speed applications.
 assembly.
 These are suitable for long working ranges. To avoid possibility of   misalignment  the armature is guided.
 
-3. Spring Extended Armature – This armature is similar to  guided  armature LVDT with an addition that ,
+3. Spring Extended Armature â€“ This armature is similar to  guided  armature LVDT with an addition that ,
 it  has internal spring to push the armature continuously to its fullest possible extension.  This maintains light
 and  reliable contact with the measured object.
 
 Most suitable for static or slow moving applications.
 
 <center><img src="Images/img2.jpg" title="" /></center>
+
 ### Applications:
 
 ##### LVDTs are commonly used for:
