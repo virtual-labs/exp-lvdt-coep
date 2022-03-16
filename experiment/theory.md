@@ -36,7 +36,7 @@ iron core.
  the  phase is  opposite to that of the primary. The magnitude of the output voltage is proportional to the distance
  moved by the core. The phase of the voltage indicates the direction of the displacement.
  
- <center><img src="Images/img1.jpg" title="" /></center>
+ <center><img src="images/img1.jpg" title="" /></center>
  
  #### Case 1:
  When no  displacement is applied to the core and the core remains in the null position without any movement then the  voltage induced in both the secondary windings is equal which results in net output is equal to zero
@@ -107,7 +107,7 @@ and  reliable contact with the measured object.
 
 Most suitable for static or slow moving applications.
 
-<center><img src="Images/img2.jpg" title="" /></center>
+<center><img src="images/img2.jpg" title="" /></center>
 
 ### Applications:
 
