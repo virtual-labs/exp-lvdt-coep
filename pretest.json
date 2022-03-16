@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Eddy currents can be used to find out",
+      "answers": {
+        "a": "Cracks in material",
+        "b": "Thickness of nonconductive coating",
+        "c": "Both Cracks in material and Thickness of nonconductive coating",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "C",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The heat generated in the transformer is dissipated to the surroundings mainly by",
+      "answers": {
+        "a": "conduction",
+        "b": "radiation",
+        "c": "convection",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Basic source of magnetism is",
+      "answers": {
+        "a": "movement of charged particles",
+        "b": "charged particles alone",
+        "c": "magnetic dipoles",
+        "d": "all of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The magnetic field of a magnet",
+      "answers": {
+        "a": "only exists on the poles themselves",
+        "b": "weakens as the distance from the magnet increases",
+        "c": "is always as strong anywhere around a magnet",
+        "d": "none of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "LVDT means",
+      "answers": {
+        "a": "Linear Variable Differential Transistor",
+        "b": "Linear Variable Differential Transducer",
+        "c": "Linear Variable Differential Translater",
+        "d": "Linear Variable Displacement Transformer"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
