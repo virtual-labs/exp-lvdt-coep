@@ -1,5 +1,3 @@
-### Characterize of LVDT 
-
 ### Prerequisite
 Student must be well versed with
 1. The basics of transformers
