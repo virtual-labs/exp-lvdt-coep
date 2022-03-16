@@ -116,15 +116,3 @@ Most suitable for static or slow moving applications.
 2. Automated measurement in machine tools and many other industrial and scientific applications.
 3. Measurement of  displacement ranging from fraction of  mm to cm
 4. Acting as a secondary transducer, it can be used for force, weight and pressure measurement. 
-
-
-
-
- 
-
-
- 
-
- 
-
- 
