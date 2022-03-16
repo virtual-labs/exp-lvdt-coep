@@ -9,7 +9,7 @@
 ### Useful links:
  
 1. [https://www.rdpe.com/displacement/lvdt/lvdt-principles.htm](https://www.rdpe.com/displacement/lvdt/lvdt-principles.htm)
-2. [https://www.macrosensors.com/lvdt_tutorial.html](https://www.macrosensors.com/lvdt_tutorial.html)
+2. [https://www.te.com/usa-en/industries/sensor-solutions/insights/lvdt-tutorial.html](https://www.te.com/usa-en/industries/sensor-solutions/insights/lvdt-tutorial.html)
 3. [https://www.efunda.com/designstandards/sensors/lvdt/lvdt_theory.cfm](https://www.efunda.com/designstandards/sensors/lvdt/lvdt_theory.cfm)
 4. [https://www.engineersedge.com/instrumentation/lvdt_linear_voltage_displacment_tranducer.htm](https://www.engineersedge.com/instrumentation/lvdt_linear_voltage_displacment_tranducer.htm)
 
